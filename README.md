@@ -73,7 +73,7 @@ Create a `.env` file in the `server` directory:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://sashidhar:fqgMeFpB95ZKxeXG@tapacademy.iyxp7kh.mongodb.net/
+MONGO_URI=mongodb+srv://sashidhar:q44qpQln0TAQLbDd@cluster0.0jl8oqw.mongodb.net/
 JWT_SECRET=tapacademy
 ```
 
