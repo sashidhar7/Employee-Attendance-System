@@ -1,3 +1,7 @@
+NAME : PATHAKOTA SASHIDHAR REDDY
+COLLEGE : MOHAN BABU UNIVERSITY
+CONTACT NUMBER : 9392434399
+
 # Employee Attendance System
 
 A full-stack attendance tracking system built with React, Redux Toolkit, Node.js, Express, and MongoDB.
