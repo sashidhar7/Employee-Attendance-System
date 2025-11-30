@@ -67,8 +67,8 @@ Create a `.env` file in the `server` directory:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://your_username:your_password@cluster.mongodb.net/attendance_system
-JWT_SECRET=your_jwt_secret_key_here
+MONGO_URI=mongodb+srv://sashidhar:fqgMeFpB95ZKxeXG@tapacademy.iyxp7kh.mongodb.net/
+JWT_SECRET=tapacademy
 ```
 
 ### 3. Frontend Setup
