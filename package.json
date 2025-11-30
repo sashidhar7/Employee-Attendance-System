@@ -1,0 +1,17 @@
+{
+  "name": "employee-attendance-system",
+  "version": "1.0.0",
+  "description": "Employee Attendance Management System",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "seed": "cd server && npm run seed",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\"",
+    "start": "concurrently \"cd server && npm start\" \"cd client && npm run dev\""
+  },
+  "keywords": ["attendance", "employee", "management", "react", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
